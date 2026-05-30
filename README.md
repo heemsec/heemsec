@@ -1,16 +1,31 @@
-## Hi there 👋
+# heems
 
-<!--
-**heemsec/heemsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building a foundation in cybersecurity.
 
-Here are some ideas to get you started:
+## Currently Working On
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ (SY0-701)
+- TryHackMe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Penetration testing & ethical hacking
+- Linux & networking fundamentals
+- SIEM & log analysis (Splunk)
+
+## Tools & Technologies
+- Kali Linux | Parrot OS
+- Wireshark | Nmap | Metasploit
+- Splunk | Burp Suite
+- Python | Bash
+
+## Progress
+| Course / Cert | Status |
+|---------------|--------|
+| Google Cybersecurity Certificate | 🔄 In Progress |
+| CompTIA Security+ SY0-701 | 🔄 Studying |
+| TryHackMe | 🔄 Active |
+
+## Repos
+- `ctf-writeups` — TryHackMe rooms and CTF challenges
+- `scripts` — tools and automation built along the way
+- `learning-log` — notes and resources
