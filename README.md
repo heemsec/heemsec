@@ -3,7 +3,7 @@
 Building a foundation in cybersecurity.
 
 ## Currently Working On
-- Google Cybersecurity Professional Certificate
+- INFOSEC Introduction to Python
 - CompTIA Security+ (SY0-701)
 - TryHackMe
 
@@ -21,7 +21,7 @@ Building a foundation in cybersecurity.
 ## Progress
 | Course / Cert | Status |
 |---------------|--------|
-| Google Cybersecurity Certificate | 🔄 In Progress |
+| Google Cybersecurity Professional Certificate | 🔄 Completed |
 | CompTIA Security+ SY0-701 | 🔄 Studying |
 | TryHackMe | 🔄 Active |
 
