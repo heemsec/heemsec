@@ -29,3 +29,5 @@ Building a foundation in cybersecurity.
 - `ctf-writeups` — TryHackMe rooms and CTF challenges
 - `scripts` — tools and automation built along the way
 - `learning-log` — notes and resources
+
+<img width="299" height="276" alt="Image" src="https://github.com/user-attachments/assets/5a3dbe6a-283c-49c1-b904-a4c4b3c68ef4" />
