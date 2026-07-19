@@ -6,6 +6,7 @@ Building a foundation in cybersecurity.
 - INFOSEC Introduction to Python
 - CompTIA Security+ (SY0-701)
 - TryHackMe
+- HackTheBox
 
 ## Focus Areas
 - Penetration testing & ethical hacking
@@ -23,7 +24,6 @@ Building a foundation in cybersecurity.
 |---------------|--------|
 | Google Cybersecurity Professional Certificate | 🔄 Completed |
 | CompTIA Security+ SY0-701 | 🔄 Studying |
-| TryHackMe | 🔄 Active |
 
 ## Repos
 - `ctf-writeups` — TryHackMe rooms and CTF challenges
