@@ -26,7 +26,7 @@ Building a foundation in cybersecurity.
 | CompTIA Security+ SY0-701 | 🔄 Studying |
 
 ## Repos
-- `ctf-writeups` — TryHackMe rooms and CTF challenges
+- `ctf-writeups` — TryHackMe rooms, HackTheBox, and CTF challenges
 - `scripts` — tools and automation built along the way
 - `learning-log` — notes and resources
 
